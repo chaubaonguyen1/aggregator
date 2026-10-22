@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+*.tmp
+
+# The ~1GB dataset is downloaded separately (see README)
+ad_data.csv
+ad_data.csv.zip

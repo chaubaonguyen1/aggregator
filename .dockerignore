@@ -1,0 +1,9 @@
+node_modules
+dist
+tests
+scripts
+coverage
+results
+benchmarks
+*.csv
+*.zip

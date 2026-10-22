@@ -1,0 +1,4 @@
+campaign_id,total_impressions,total_clicks,total_spend,total_conversions,CTR,CPA
+CMP001,26000,640,93.70,27,0.0246,3.47
+CMP003,5000,60,15.00,3,0.0120,5.00
+CMP002,16500,270,59.00,9,0.0164,6.56

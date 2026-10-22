@@ -1,0 +1,14 @@
+========================================================================
+Date:    2026-10-22T08:29:05.956Z
+Node:    v22.22.2
+OS:      Windows_NT 10.0.26200 (x64)
+CPU:     Intel(R) Core(TM) i9-14900HX x 32
+Memory:  31.7 GB
+Input:   ad_data.csv (995.0 MB)
+
+Run 1: Elapsed: 9.44 s | Peak RSS: 87.1 MB | Wall (incl. startup): 9.56 s
+Run 2: Elapsed: 9.36 s | Peak RSS: 87.1 MB | Wall (incl. startup): 9.48 s
+Run 3: Elapsed: 10.48 s | Peak RSS: 88.0 MB | Wall (incl. startup): 10.59 s
+Run 4: Elapsed: 10.87 s | Peak RSS: 91.7 MB | Wall (incl. startup): 11.01 s
+Run 5: Elapsed: 10.80 s | Peak RSS: 92.0 MB | Wall (incl. startup): 10.91 s
+
